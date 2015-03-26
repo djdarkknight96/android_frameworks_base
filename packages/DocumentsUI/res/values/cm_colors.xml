@@ -19,5 +19,6 @@
     <!-- adding new exposed theme components -->
     <color name="drawer_background_color">#ffffffff</color>
     <color name="font_color_doc_grid">#ffffffff</color>
+    <color name="toolbar_background">?android:attr/colorPrimary</color>
 
 </resources>
